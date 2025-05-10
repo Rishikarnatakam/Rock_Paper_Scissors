@@ -7,8 +7,6 @@ A modern GUI implementation of the classic Rock Paper Scissors game using Python
 - Modern dark-themed GUI
 - Real-time score tracking
 - Visual representation of choices
-- Smooth animations and transitions
-- Cross-platform compatibility
 
 ## Requirements
 
@@ -49,6 +47,3 @@ python rock_paper_scissor_game.py
 - `rock_paper_scissor_game_imgs/` - Directory containing game images
 - `requirements.txt` - Python package dependencies
 
-## License
-
-This project is open source and available under the MIT License. 
