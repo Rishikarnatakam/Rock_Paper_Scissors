@@ -20,8 +20,8 @@ A modern GUI implementation of the classic Rock Paper Scissors game using Python
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://github.com/Rishikarnatakam/Rock_Paper_Scissors.git
+cd Rock_Paper_Scissors
 ```
 
 2. Install the required packages:
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 Run the game using:
 ```bash
-python rock_paper_scissor_game_v2.py
+python rock_paper_scissor_game.py
 ```
 
 ## How to Play
@@ -45,7 +45,7 @@ python rock_paper_scissor_game_v2.py
 
 ## Project Structure
 
-- `rock_paper_scissor_game_v2.py` - Main game file
+- `rock_paper_scissor_game.py` - Main game file
 - `rock_paper_scissor_game_imgs/` - Directory containing game images
 - `requirements.txt` - Python package dependencies
 
